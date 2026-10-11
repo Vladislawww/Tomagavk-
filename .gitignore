@@ -10,3 +10,7 @@ sample_submission/
 # Submitted on purpose, but never committed.
 submission_pointer.zip
 manifest.json
+
+# Large datasets and generated results
+jet_dd_s1/timeseries.csv
+new_model/result.csv
